@@ -1,0 +1,12 @@
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\bin\Debug\stringManpukation.exe.config
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\bin\Debug\stringManpukation.exe
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\bin\Debug\stringManpukation.pdb
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\obj\Debug\stringManpukation.csproj.AssemblyReference.cache
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\obj\Debug\stringManpukation.csproj.CoreCompileInputs.cache
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\obj\Debug\stringManpukation.exe
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\obj\Debug\stringManpukation.pdb
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\bin\Debug\BusinessLibary.dll
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\bin\Debug\DataLibary.dll
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\bin\Debug\BusinessLibary.pdb
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\bin\Debug\DataLibary.pdb
+C:\Users\katle\source\repos\stringManpukation\stringManpukation\obj\Debug\stringManpukation.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\bin\Debug\BusinessLibary.dll
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\bin\Debug\BusinessLibary.pdb
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\bin\Debug\DataLibary.dll
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\bin\Debug\DataLibary.pdb
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\obj\Debug\BusinessLibary.csproj.AssemblyReference.cache
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\obj\Debug\BusinessLibary.csproj.CoreCompileInputs.cache
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\obj\Debug\BusinessLibary.csproj.CopyComplete
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\obj\Debug\BusinessLibary.dll
+C:\Users\katle\source\repos\stringManpukation\BusinessLibary\obj\Debug\BusinessLibary.pdb

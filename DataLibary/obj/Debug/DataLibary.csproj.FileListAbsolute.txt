@@ -1,0 +1,6 @@
+C:\Users\katle\source\repos\stringManpukation\DataLibary\bin\Debug\DataLibary.dll
+C:\Users\katle\source\repos\stringManpukation\DataLibary\bin\Debug\DataLibary.pdb
+C:\Users\katle\source\repos\stringManpukation\DataLibary\obj\Debug\DataLibary.csproj.AssemblyReference.cache
+C:\Users\katle\source\repos\stringManpukation\DataLibary\obj\Debug\DataLibary.csproj.CoreCompileInputs.cache
+C:\Users\katle\source\repos\stringManpukation\DataLibary\obj\Debug\DataLibary.dll
+C:\Users\katle\source\repos\stringManpukation\DataLibary\obj\Debug\DataLibary.pdb
